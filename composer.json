@@ -1,5 +1,5 @@
 {
-    "name": "limenius/react-renderer",
+    "name": "pwt777/react-renderer",
     "description": "Client and Server-side React rendering",
     "type": "library",
     "keywords": ["react", "reactjs", "isomorphic", "twig"],
@@ -21,7 +21,7 @@
     "require": {
         "php": ">=7.2.0",
         "ext-json": "*",
-        "nacmartin/phpexecjs": "^3.0",
+        "pwt777/phpexecjs": "^3.0",
         "twig/twig": "^2.4|^3.0"
     },
     "require-dev": {
